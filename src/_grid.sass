@@ -1,20 +1,20 @@
-
 .#{$name-block}
   // Container
-  &__#{$name-element-container}
-    margin: 0 auto
-    padding: 0 $gutter + ($container-offset - $gutter)
-  
+  margin: 0 auto
+  padding: 0 $gutter + ($container-offset - $gutter)
+
   &__#{$name-element-row}
     display: flex
     flex-wrap: wrap
     margin: 0 #{-$gutter}
 
-  &__#{$name-element-col}
-    padding: 0 $gutter
-
   @for $i from 1 through $column-number
-    &__#{$name-element-col}_#{$i}
+    &__#{$name-element-col}-#{$i}
       $width: 100%/($column-number/$i)
       flex: 0 0 $width
       max-width: $width
+
+[class^='#{$name-block}__#{$name-element-col}-'],
+[class*=' #{$name-block}__#{$name-element-col}-']
+  padding: 0 $gutter
+  box-sizing: border-box
