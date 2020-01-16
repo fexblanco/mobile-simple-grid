@@ -1,0 +1,8 @@
+{
+  "name": "mobile-simple-grid",
+  "version": "1.0.0",
+  "description": "Lightweight oriented css grid for mobile",
+  "repository": "https://github.com/fexblanco/mobile-simple-grid",
+  "author": "Félix Blanco <fexblanco@gmail.com>",
+  "license": "MIT"
+}
