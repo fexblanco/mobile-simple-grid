@@ -4,5 +4,15 @@
   "description": "Lightweight oriented css grid for mobile",
   "repository": "https://github.com/fexblanco/mobile-simple-grid",
   "author": "Félix Blanco <fexblanco@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^9.7.4",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-autoprefixer": "^7.0.1"
+  }
 }
