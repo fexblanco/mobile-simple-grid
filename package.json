@@ -5,6 +5,7 @@
   "repository": "https://github.com/fexblanco/mobile-simple-grid",
   "author": "Félix Blanco <fexblanco@gmail.com>",
   "license": "MIT",
+  "main": "dist/mobile-simple-grid.css",
   "devDependencies": {
     "autoprefixer": "^9.7.4",
     "cssnano": "^4.1.10",

@@ -1,8 +1,8 @@
 # Mobile simple grid
 
-Very very simple grid focused on lightweight. At this moment the compiled file weighs less than 0.5kb
+Very very simple grid focused on lightweight and mobile only development. At this moment the compiled file weighs less than 0.5kb
 
-This grid fits awesome for AMP development because they have a [limitation of 50,000 bytes for the weight of the CSS](https://amp.dev/es/documentation/guides-and-tutorials/develop/style_and_layout/?format=websites#add-styles-to-a-page).
+This grid fits awesome for AMP development (only mobile sizes, no responsive) because they have a [limitation of 50,000 bytes for the weight of the CSS](https://amp.dev/es/documentation/guides-and-tutorials/develop/style_and_layout/?format=websites#add-styles-to-a-page).
 
 ## How to use
 
