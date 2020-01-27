@@ -1,11 +1,8 @@
 # Mobile simple grid
 
 ![npm version](https://badge.fury.io/js/mobile-simple-grid.svg)
-
 ![GitHub file size in bytes](https://img.shields.io/github/size/fexblanco/mobile-simple-grid/dist/mobile-simple-grid.css)
-
 ![GitHub License](https://img.shields.io/github/license/fexblanco/mobile-simple-grid)
-
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/fexblanco/mobile-simple-grid)
 
 Very very simple grid focused on lightweight and mobile only development. At this moment the compiled file weighs less than 0.5kb
